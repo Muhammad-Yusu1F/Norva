@@ -1,0 +1,11 @@
+{
+	"appId": "com.norva.app",
+	"appName": "NORVA",
+	"webDir": "dist",
+	"server": {
+		"androidScheme": "https"
+	},
+	"packageClassList": [
+		"LocalNotificationsPlugin"
+	]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "SmartBudget",
+  "description": "Shaxsiy moliya va xarajatlar nazorati ilovasi",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
